@@ -1,0 +1,187 @@
+[2021-01-28 02:25:50] [INFO]: 当前版本:v0.9.35-fix1 
+[2021-01-28 02:25:50] [INFO]: 将使用 device.json 内的设备信息运行Bot. 
+[2021-01-28 02:25:50] [INFO]: Bot将在5秒后登录并开始信息处理, 按 Ctrl+C 取消. 
+[2021-01-28 02:25:55] [INFO]: 开始尝试登录并同步消息... 
+[2021-01-28 02:25:55] [INFO]: 使用协议: iPad 
+[2021-01-28 02:26:00] [INFO]: Protocol -> connect to server: 120.232.18.82:8080 
+[2021-01-28 02:26:00] [INFO]: Admin API 服务器已启动: 127.0.0.1:9999 
+[2021-01-28 02:26:01] [INFO]: 登录成功 欢迎使用: 黑猫 
+[2021-01-28 02:26:02] [INFO]: 开始加载好友列表... 
+[2021-01-28 02:26:02] [INFO]: 共加载 6 个好友. 
+[2021-01-28 02:26:02] [INFO]: 开始加载群列表... 
+[2021-01-28 02:26:02] [INFO]: 共加载 3 个群. 
+[2021-01-28 02:26:02] [INFO]: 信息数据库初始化完成. 
+[2021-01-28 02:26:02] [INFO]: 正在加载事件过滤器. 
+[2021-01-28 02:26:02] [WARNING]: 事件过滤器启动失败: open filter.json: no such file or directory 
+[2021-01-28 02:26:02] [INFO]: 正在加载silk编码器... 
+[2021-01-28 02:26:02] [INFO]: 资源初始化完成, 开始处理信息. 
+[2021-01-28 02:26:02] [INFO]: アトリは、高性能ですから! 
+[2021-01-28 02:26:02] [INFO]: CQ HTTP 服务器已启动: 0.0.0.0:5700 
+[2021-01-28 02:26:02] [INFO]: CQ Websocket 服务器已启动: 0.0.0.0:6700 
+[2021-01-28 02:26:02] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:02] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:26:02] [INFO]: 正在检查更新. 
+[2021-01-28 02:26:02] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:04] [INFO]: 收到服务器地址更新通知, 根据配置文件已忽略. 
+[2021-01-28 02:26:05] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:05] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:08] [INFO]: 当前有更新的 go-cqhttp 可供更新, 请前往 https://github.com/Mrs4s/go-cqhttp/releases 下载. 
+[2021-01-28 02:26:08] [INFO]: 当前版本: v0.9.35-fix1 最新版本: v0.9.39 
+[2021-01-28 02:26:08] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:08] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:11] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:11] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:14] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:14] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:17] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:17] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:20] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:20] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:23] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:23] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:26] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:26] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:29] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:29] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:32] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:32] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:35] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:35] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:38] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:38] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:41] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:41] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:44] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:44] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:47] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:47] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:50] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:50] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:53] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:53] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:56] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:56] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:26:59] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:26:59] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:02] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:02] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:05] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:05] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:08] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:08] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:11] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:11] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:14] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:14] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:17] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:17] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:20] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:20] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:23] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:23] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:26] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:26] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:29] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:29] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:32] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:32] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:35] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:35] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:36] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:27:38] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:38] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:41] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:41] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:27:42] [WARNING]: 向WS服务器 127.0.0.1:9222 推送Event时出现错误: write tcp 127.0.0.1:42020->127.0.0.1:9222: use of closed network connection 
+[2021-01-28 02:27:44] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:27:45] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:27:45] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:27:48] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:27:48] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:27:51] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:27:51] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:27:54] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:27:54] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:27:57] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:27:57] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:28:00] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:28:00] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:28:03] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:28:03] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:28:06] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:28:06] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:28:09] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:28:09] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:9222/ws/ 时出现错误: dial tcp 127.0.0.1:9222: connect: connection refused 
+[2021-01-28 02:28:12] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:9222/ws/ 
+[2021-01-28 02:28:40] [INFO]: 接受 Websocket 连接: 127.0.0.1:53600 (/api) 
+[2021-01-28 02:28:40] [INFO]: 接受 Websocket 连接: 127.0.0.1:53598 (/event) 
+[2021-01-28 02:28:41] [INFO]: 发送好友 1154318356(1154318356)  的消息: 已上线#1 (-2082910972) 
+[2021-01-28 02:30:26] [INFO]: 发送群 733518404(733518404)  的消息: プリンセスコネクト！ ... (-405036603) 
+[2021-01-28 02:30:27] [INFO]: 发送群 725374815(725374815)  的消息: プリンセスコネクト！ ... (1961716923) 
+[2021-01-28 02:30:28] [INFO]: 发送群 725868295(725868295)  的消息: プリンセスコネクト！ ... (-24234668) 
+[2021-01-28 02:32:45] [INFO]: 发送群 733518404(733518404)  的消息: 公主连结ReDive ... (165003497) 
+[2021-01-28 02:32:46] [INFO]: 发送群 733518404(733518404)  的消息: 公主连结ReDive ... (-385865225) 
+[2021-01-28 02:32:47] [INFO]: 收到群 竹鼠连结(733518404) 内 栞栞(3027226796) 的消息: &#91;公主连结ReDive&#93;的动态：
+动态URL：https://t.bilibili.com/484451708034112358
+
+公主连结ReDive：亲爱的各位骑士君：
+
+1月29日05:00起，游戏内将开启「地下城」玛那掉落量2倍庆典！
+
+庆典期间，通关地下城�...(点击链接查看)
+[CQ:image,file=b081c2b6ff2877074aa30d81e7bf153a.image]
+&#91;图ID：108827746&#93; (-1361960703) 
+[2021-01-28 02:32:47] [INFO]: 收到群 竹鼠连结(733518404) 内 栞栞(3027226796) 的消息: &#91;公主连结ReDive&#93;的动态：
+动态URL：https://t.bilibili.com/484822793211295396
+
+公主连结ReDive：四格漫画更新——「强大的帮手」
+
+巨大的年糕形魔物出现了！为击败魔物，日和莉请来了强大的帮手，
+前来帮�...(点击链接查看)
+[CQ:image,file=e3c53c0b047bcf4ea72dfa269a6fae2b.image]
+&#91;图ID：109007811&#93; (1202816052) 
+[2021-01-28 02:32:47] [INFO]: 发送群 725374815(725374815)  的消息: 公主连结ReDive ... (-1696395881) 
+[2021-01-28 02:32:48] [INFO]: 发送群 725374815(725374815)  的消息: 公主连结ReDive ... (2050417801) 
+[2021-01-28 02:32:49] [INFO]: 发送群 725868295(725868295)  的消息: 公主连结ReDive ... (422975571) 
+[2021-01-28 02:32:50] [INFO]: 发送群 725868295(725868295)  的消息: 公主连结ReDive ... (-1566288383) 
+[2021-01-28 02:36:39] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (-1211150180) 
+[2021-01-28 02:36:39] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (-186745454) 
+[2021-01-28 02:38:53] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:38:57] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56348->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:39:00] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:39:22] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (784728358) 
+[2021-01-28 02:39:23] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (1790634033) 
+[2021-01-28 02:39:56] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:40:02] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56452->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:40:05] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:40:07] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (1505833392) 
+[2021-01-28 02:40:07] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (498981031) 
+[2021-01-28 02:47:43] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:47:48] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56470->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:47:51] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:47:52] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (-914478047) 
+[2021-01-28 02:47:53] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (-2068543203) 
+[2021-01-28 02:49:15] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:49:23] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56502->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:49:26] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:49:26] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:49:29] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:49:30] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (-1099359049) 
+[2021-01-28 02:49:31] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (-206325365) 
+[2021-01-28 02:52:26] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:52:33] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56518->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:52:34] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (-557935278) 
+[2021-01-28 02:52:36] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:52:36] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (1661772826) 
+[2021-01-28 02:54:13] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-01-28 02:54:18] [WARNING]: 向WS服务器 127.0.0.1:8080 推送Event时出现错误: write tcp 127.0.0.1:56550->127.0.0.1:8080: use of closed network connection 
+[2021-01-28 02:54:21] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:54:21] [WARNING]: 连接到反向Websocket Universal服务器 ws://127.0.0.1:8080/ws/ 时出现错误: dial tcp 127.0.0.1:8080: connect: connection refused 
+[2021-01-28 02:54:24] [INFO]: 开始尝试连接到反向Websocket Universal服务器: ws://127.0.0.1:8080/ws/ 
+[2021-01-28 02:54:26] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 一键安装 (-1447451196) 
+[2021-01-28 02:54:26] [INFO]: 发送好友 1154318356(1154318356)  的消息: YoCool初始化完 ... (336303244) 
+[2021-01-28 02:54:28] [INFO]: 发送好友 1154318356(1154318356)  的消息: 一键安装已完成！
+当 ... (1190821867) 
+[2021-01-28 02:56:58] [INFO]: 收到好友 Ayazk(1154318356) 的消息: 登录 (816903294) 
+[2021-01-28 02:56:58] [INFO]: 发送好友 1154318356(1154318356)  的消息: http://yob ... (1100463090) 
+[2021-01-28 03:00:01] [INFO]: 收到群 竹鼠连结(733518404) 内 栞栞(3027226796) 的消息: 03:00 (¦3&#91;▓▓&#93; 晚安[CQ:image,file=d1585bb2614dd9aaa51b8da52eaf5711.image] (817280162) 
