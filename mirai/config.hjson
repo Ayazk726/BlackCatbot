@@ -5,9 +5,9 @@
 
 {
     // QQ号
-    uin:1409176588 
+    uin: 
     // QQ密码
-    password: "19990727asd"
+    password: ""
     // 是否启用密码加密
     encrypt_password: false
     // 加密后的密码, 如未启用密码加密将为空, 请勿随意修改.
@@ -17,7 +17,7 @@
     // 关闭将无法使用 撤回 回复 get_msg 等上下文相关功能
     enable_db: true
     // 访问密钥, 强烈推荐在公网的服务器设置
-    access_token: "1adjfic874bc9wahd8tghd73gbd"
+    access_token: ""
     // 重连设置
     relogin: {
         // 是否启用自动重连
