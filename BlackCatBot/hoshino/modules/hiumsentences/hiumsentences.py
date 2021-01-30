@@ -61,7 +61,7 @@ async def wenhao(bot,ev:CQEvent):
     gid = ev.group_id
     if not _lmt.check(gid):
         return
-    _lit.start_cd(gid)
+    _lmt.start_cd(gid)
     try:
         image = pic_gender_cqcode('chat/？')
     except Exception as e :
