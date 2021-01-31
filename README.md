@@ -1,6 +1,6 @@
 # BlackCatbot
 自用的整合PCRbot有需要的请自行安装依赖和配置(**仅适用于Linux**)  
-
+github太慢的话可以在[gitee](https://gitee.com/Ayazk/BlackCatbot)克隆仓库
 **主要由以下开源bot组成:**  
 1.[Hoshino](https://github.com/Ice-Cirno/HoshinoBot)  
 2.[yobot](https://github.com/pcrbot/yobot)  
